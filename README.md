@@ -1,11 +1,11 @@
 # 👋 Hello, I'm [Jobaer Ahmed](https://ajobaer.netlify.app/professional)
 
-I'm a **Software Developer** at NZiTech and an **MSc Computing by Research** candidate at USIM, based in Kuala Lumpur, Malaysia. I build web applications and AI-driven systems: at work, the frontend of two production **B2B portals** with live chat, support tickets, live dashboards and a CMS; in research, an **enhanced symmetric encryption algorithm** based on AES.
+I'm a **Software Developer** at NZiTech and an **MSc Computing by Research** candidate at USIM, based in Kuala Lumpur, Malaysia. I build web applications and AI-driven systems: at work, the frontend of two production **B2B portals** with live chat, support tickets and live dashboards; in research, an **enhanced symmetric encryption algorithm** based on AES.
 
 🔭 **Available for work:** open to full-time frontend / full-stack developer roles.
 
 - 💬 Previously built conversational AI features with FastAPI, Redis and IBM Watson at CoolRiots, Singapore
-- 🎓 BSc Computer Science (Data Science), IIUM · CGPA 3.78, top 5% · MSc CGPA 4.00
+- 🎓 BSc Computer Science (Data Science), IIUM, top 5% of the department · MSc Computing by Research, USIM
 - 📄 2 publications in cryptography · Gold Award, FYPP Research Poster Competition 2025
 
 ## 🛠️ Skills
